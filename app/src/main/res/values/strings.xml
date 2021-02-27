@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flames</string>
+    <string name="flames">Flames</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_partner_name">Enter your partner name</string>
+    <string name="play">Play</string>
+</resources>
